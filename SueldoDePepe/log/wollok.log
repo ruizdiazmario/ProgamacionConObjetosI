@@ -1,0 +1,7 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2026-04-13T03:51:12.431Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":131,"timestamp":"2026-04-13T04:08:58.635Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":136,"timestamp":"2026-04-13T04:24:20.861Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":115,"timestamp":"2026-04-13T04:46:36.206Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":121,"timestamp":"2026-04-17T03:53:23.739Z"}
+{"level":"info","message":"⌛ Validating 2026-s1-c2-sueldo-de-pepe-ruizdiazmario/testFinal.wtest","timeElapsed":149,"timestamp":"2026-04-17T03:53:24.368Z"}
+{"level":"info","message":"🧪 Test runner executed on c:\\Users\\mario\\OneDrive\\Docs M.2\\Tec. Programacion Informatica\\ProgamaciónConObjetosI\\SueldoDePepe","result":{"errored":0,"failed":1,"ok":0},"testsFailed":[{"error":["wollok.lib.AssertionException: Expected <10100> but found <10000>","  at 2026-s1-c2-sueldo-de-pepe-ruizdiazmario.testFinal.\"sueldos varios\".\"Test final\" [2026-s1-c2-sueldo-de-pepe-ruizdiazmario/testFinal.wtest:22]"],"test":"2026-s1-c2-sueldo-de-pepe-ruizdiazmario.testFinal.\"sueldos varios\".\"Test final\""}],"timeElapsed":191,"timestamp":"2026-04-17T03:53:28.351Z"}

@@ -1,0 +1,9 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":107,"timestamp":"2026-04-06T05:07:29.934Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":141,"timestamp":"2026-04-13T04:11:15.105Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2026-04-13T04:46:36.210Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":123,"timestamp":"2026-04-17T03:59:49.923Z"}
+{"level":"info","message":"⌛ Validating 2026s2c2-empanadas-gimenez-ruizdiazmario-1/testPunto3.wtest","timeElapsed":113,"timestamp":"2026-04-17T03:59:51.010Z"}
+{"level":"info","message":"🧪 Test runner executed on c:\\Users\\mario\\OneDrive\\Docs M.2\\Tec. Programacion Informatica\\ProgamaciónConObjetosI\\EmpanadasGiménez","result":{"errored":0,"failed":1,"ok":1},"testsFailed":[{"error":["wollok.lib.AssertionException: Expected <2850000> but found <285000>","  at 2026s2c2-empanadas-gimenez-ruizdiazmario-1.empleados.\"Pago de sueldos\".\"Pago a galvan con fondos suficientes.\" [2026s2c2-empanadas-gimenez-ruizdiazmario-1/empleados.wtest:7]"],"test":"2026s2c2-empanadas-gimenez-ruizdiazmario-1.empleados.\"Pago de sueldos\".\"Pago a galvan con fondos suficientes.\""}],"timeElapsed":232,"timestamp":"2026-04-17T03:59:54.553Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":132,"timestamp":"2026-04-23T05:58:14.121Z"}
+{"level":"info","message":"⌛ Validating 2026s2c2-empanadas-gimenez-ruizdiazmario-1/empleados.wlk","timeElapsed":111,"timestamp":"2026-04-23T05:58:15.164Z"}
+{"level":"info","message":"⌛ Validating 2026s2c2-empanadas-gimenez-ruizdiazmario-1/testPunto3.wtest","timeElapsed":107,"timestamp":"2026-04-23T05:58:15.311Z"}
